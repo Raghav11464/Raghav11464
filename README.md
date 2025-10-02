@@ -10,7 +10,7 @@ A passionate and detail-oriented Information Science and Engineering student at 
 * 🌱 📫 How to reach me: **raghavsharan2016@gmail.com** or connect with me on LinkedIn.
 
 
-## 💻 Socials
+## 💻 Find Me Online
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raghav-sharan-mishra) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mishra._.ji._) [![Codolio](https://img.shields.io/badge/Codolio-%233B82F6.svg?logoColor=white)](https://www.codolio.com/profile/raghavsm005) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?logo=LeetCode&logoColor=black)](https://leetcode.com/Raghav_Mishra005) [![CodeChef](https://img.shields.io/badge/CodeChef-%235B4638.svg?logo=CodeChef&logoColor=white)](https://www.codechef.com/users/raghavsharan05 ) [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d.svg?logo=Codeforces&logoColor=white)](https://codeforces.com/profile/Raghav_mishra2005) [![Substack](https://img.shields.io/badge/Substack-%23FF6719.svg?logo=substack&logoColor=white)](https://rsm005.substack.com/)
 
 
