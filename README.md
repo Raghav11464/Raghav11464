@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Raghav Sharan Mishra 👋</h1>
 <h3 align="center">Pre Final Year (3rd Year) Undergrad at BMS Institute of Technology and Management, Bengaluru</h3>
 
-<img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/Y1vohJMVMtjSQxmUot/source.gif">
+<img align="right" alt="coding" width="400" height="250" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghav11464&label=Profile%20views&color=0e75b6&style=flat" alt="raghav11464" /> </p>
 
@@ -10,7 +10,7 @@ A passionate and detail-oriented Information Science and Engineering student at 
 * 🌱 📫 How to reach me: **raghavsharan2016@gmail.com** or connect with me on LinkedIn.
 
 
-## 💻 Find Me Online
+## 💻 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raghav-sharan-mishra) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mishra._.ji._) [![Codolio](https://img.shields.io/badge/Codolio-%233B82F6.svg?logoColor=white)](https://www.codolio.com/profile/raghavsm005) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?logo=LeetCode&logoColor=black)](https://leetcode.com/Raghav_Mishra005) [![CodeChef](https://img.shields.io/badge/CodeChef-%235B4638.svg?logo=CodeChef&logoColor=white)](https://www.codechef.com/users/raghavsharan05 ) [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d.svg?logo=Codeforces&logoColor=white)](https://codeforces.com/profile/Raghav_mishra2005) [![Substack](https://img.shields.io/badge/Substack-%23FF6719.svg?logo=substack&logoColor=white)](https://rsm005.substack.com/)
 
 
