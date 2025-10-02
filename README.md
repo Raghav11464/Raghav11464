@@ -50,8 +50,9 @@ A passionate and detail-oriented Information Science and Engineering student at 
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raghav11464&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Top Languages" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=raghav11464&show_icons=true&locale=en&theme=github_dark" alt="GitHub Stats" height="200"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raghav11464&theme=github-dark-blue&hide_border=false" alt="GitHub Streak" height="200"/>
+</p>
+<p align="left">  <img src="https://github-readme-stats.vercel.app/api?username=raghav11464&show_icons=true&locale=en&theme=github_dark" alt="GitHub Stats" height="200"/></p>
+  <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=raghav11464&theme=github-dark-blue&hide_border=false" alt="GitHub Streak" height="200"/>
 </p>
