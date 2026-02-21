@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghav11464&label=Profile%20views&color=0e75b6&style=flat" alt="raghav11464" /> </p>
 
 A passionate and detail-oriented Information Science and Engineering student at BMS Institute of Technology, Bengaluru. I have a strong foundation in Data Structures and Applications, and object-oriented programming.
-* 🌱 I’m currently learning **Java and Backend Development**
+* 🌱 I’m currently solving problems in **Java and Backend Development**
 * 🌱 📫 How to reach me: **raghavsharan2016@gmail.com** or connect with me on LinkedIn.
 
 
