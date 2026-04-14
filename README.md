@@ -47,9 +47,6 @@ A passionate and detail-oriented Information Science and Engineering student at 
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=raghav11464&layout=compact&theme=github_dark&hide_border=true" 
-    height="200"
-  />
-</p>
+![](https://github-readme-stats.shion.dev/api?username=Raghav11464&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Raghav11464&theme=github_dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Raghav11464&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
