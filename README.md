@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Raghav Sharan Mishra 👋</h1>
-<h3 align="center">Pre Final Year (3rd Year) Undergrad at BMS Institute of Technology and Management, Bengaluru</h3>
+<h3 align="center">Final Year Undergrad at BMS Institute of Technology and Management, Bengaluru</h3>
 
 <img align="right" alt="coding" width="400" height="250" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
